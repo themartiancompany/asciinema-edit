@@ -4,7 +4,7 @@ import (
 	"os"
 
 	// "github.com/themartiancompany/asciinema-edit/commands"
-	"commands"
+	"asciinema-edit/commands"
 	"gopkg.in/urfave/cli.v1"
 )
 
