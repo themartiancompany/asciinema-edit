@@ -5,11 +5,17 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/themartiancompany/asciinema-edit/cast"
-	"github.com/themartiancompany/asciinema-edit/commands/transformer"
-	"github.com/themartiancompany/asciinema-edit/editor"
-	"github.com/pkg/errors"
-	"gopkg.in/urfave/cli.v1"
+        "asciinema-edit/cast"
+	"asciinema-edit/commands/transformer"
+	"asciinema-edit/editor"
+	"errors"
+	"cli.v1"
+
+	// "github.com/themartiancompany/asciinema-edit/cast"
+	// "github.com/themartiancompany/asciinema-edit/commands/transformer"
+	// "github.com/themartiancompany/asciinema-edit/editor"
+	// "github.com/pkg/errors"
+	// "gopkg.in/urfave/cli.v1"
 )
 
 var Quantize = cli.Command{
