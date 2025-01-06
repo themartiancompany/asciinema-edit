@@ -17,7 +17,8 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/pkg/errors"
+	// "github.com/pkg/errors"
+	"errors"
 )
 
 // Header represents the asciicast header - a JSON-encoded object containing
