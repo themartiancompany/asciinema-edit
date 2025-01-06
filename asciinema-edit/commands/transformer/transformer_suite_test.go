@@ -3,8 +3,11 @@ package transformer_test
 import (
 	"testing"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
+//	. "github.com/onsi/ginkgo"
+//	. "github.com/onsi/gomega"
+	. "ginkgo"
+	. "gomega"
+
 )
 
 func TestTransformer(t *testing.T) {

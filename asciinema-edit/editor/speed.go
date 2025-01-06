@@ -1,8 +1,11 @@
 package editor
 
 import (
-	"github.com/themartiancompany/asciinema-edit/cast"
-	"github.com/pkg/errors"
+//	"github.com/themartiancompany/asciinema-edit/cast"
+//	"github.com/pkg/errors"
+	"asciinema-edit/cast"
+	"errors"
+
 )
 
 // Speed updates the cast speed by multiplying all of the

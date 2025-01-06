@@ -3,9 +3,10 @@ package editor
 import (
 	"math"
 
-	"github.com/themartiancompany/asciinema-edit/cast"
-	"github.com/pkg/errors"
-)
+//	"github.com/themartiancompany/asciinema-edit/cast"
+//	"github.com/pkg/errors"
+	"asciinema-edit/cast"
+	"errors"                           )
 
 // Cut removes a piece of the cast event stream as specified by
 // `from` and `to`.

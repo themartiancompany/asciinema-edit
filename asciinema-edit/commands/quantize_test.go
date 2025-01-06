@@ -3,11 +3,16 @@ package commands_test
 import (
 	"math"
 
-	"github.com/themartiancompany/asciinema-edit/commands"
-	"github.com/themartiancompany/asciinema-edit/editor"
+//	"github.com/themartiancompany/asciinema-edit/commands"
+//	"github.com/themartiancompany/asciinema-edit/editor"
+	"asciinema-edit/commands"
+	"asciinema-edit/editor"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
+//	. "github.com/onsi/ginkgo"
+//	. "github.com/onsi/gomega"
+	. "ginkgo"
+	. "gomega"
+
 )
 
 var _ = Describe("ParseQuantizeRange", func() {

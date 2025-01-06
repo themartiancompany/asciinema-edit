@@ -5,11 +5,16 @@ import (
 	"os"
 	"path"
 
-	"github.com/themartiancompany/asciinema-edit/cast"
-	"github.com/themartiancompany/asciinema-edit/commands/transformer"
+//	"github.com/themartiancompany/asciinema-edit/cast"
+//	"github.com/themartiancompany/asciinema-edit/commands/transformer"
+	"asciinema-edit/cast"
+	"asciinema-edit/commands/transformer"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
+//	. "github.com/onsi/ginkgo"
+//	. "github.com/onsi/gomega"
+	. "ginkgo"
+	. "gomega"
+
 )
 
 type DummyTransformation struct{}

@@ -1,10 +1,15 @@
 package commands
 
 import (
-	"github.com/themartiancompany/asciinema-edit/cast"
-	"github.com/themartiancompany/asciinema-edit/commands/transformer"
-	"github.com/themartiancompany/asciinema-edit/editor"
-	"gopkg.in/urfave/cli.v1"
+	// "github.com/themartiancompany/asciinema-edit/cast"
+	// "github.com/themartiancompany/asciinema-edit/commands/transformer"
+	// "github.com/themartiancompany/asciinema-edit/editor"
+	// "gopkg.in/urfave/cli.v1"
+	"asciinema-edit/cast"
+	"asciinema-edit/commands/transformer"
+	"asciinema-edit/editor"
+	"cli.v1"
+
 )
 
 var Cut = cli.Command{

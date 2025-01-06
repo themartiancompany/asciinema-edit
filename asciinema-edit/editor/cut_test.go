@@ -1,11 +1,15 @@
 package editor_test
 
 import (
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
+//	. "github.com/onsi/ginkgo"
+//	. "github.com/onsi/gomega"
+	. "ginkgo"
+	. "gomega"
+//	"github.com/themartiancompany/asciinema-edit/cast"
+//	"github.com/themartiancompany/asciinema-edit/editor"
+	"asciinema-edit/cast"
+	"asciinema-edit/editor"
 
-	"github.com/themartiancompany/asciinema-edit/cast"
-	"github.com/themartiancompany/asciinema-edit/editor"
 )
 
 var _ = Describe("Cut", func() {

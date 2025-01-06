@@ -3,11 +3,15 @@ package cast_test
 import (
 	"bufio"
 	"bytes"
-	"github.com/themartiancompany/asciinema-edit/cast"
+	// "github.com/themartiancompany/asciinema-edit/cast"
+	"asciinema-edit/cast"
 	"io"
 
-	. "github.com/onsi/ginkgo"
-	. "github.com/onsi/gomega"
+	// . "github.com/onsi/ginkgo"
+	// . "github.com/onsi/gomega"
+	. "ginkgo"
+	. "gomega"
+
 )
 
 var (
