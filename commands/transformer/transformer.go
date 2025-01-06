@@ -7,7 +7,7 @@ package transformer
 import (
 	"os"
 
-	"github.com/cirocosta/asciinema-edit/cast"
+	"asciinema-edit/cast"
 	"github.com/pkg/errors"
 )
 

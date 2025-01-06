@@ -1,9 +1,3 @@
-# github.com/cirocosta/asciinema-edit v0.0.0-20190130154215-1c0971ae232a
-## explicit
-github.com/cirocosta/asciinema-edit/cast
-github.com/cirocosta/asciinema-edit/commands
-github.com/cirocosta/asciinema-edit/commands/transformer
-github.com/cirocosta/asciinema-edit/editor
 # github.com/fsnotify/fsnotify v1.4.9
 ## explicit; go 1.13
 github.com/fsnotify/fsnotify

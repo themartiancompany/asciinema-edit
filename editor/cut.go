@@ -3,7 +3,7 @@ package editor
 import (
 	"math"
 
-	"github.com/cirocosta/asciinema-edit/cast"
+	"asciinema-edit/cast"
 	"github.com/pkg/errors"
 )
 
