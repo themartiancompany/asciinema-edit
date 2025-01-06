@@ -24,15 +24,11 @@ Having those, you can improve your cast by:
 
 ### Installation
 
-Being a Golang application, you can either build it yourself with `go get` or fetch a specific version from the [Releases page](https://github.com/cirocosta/asciinema-edit/releases):
+Being a Golang application, you can either build it yourself with `go get` or fetch a specific version from the [Releases page](https://github.com/themartiancompany/asciinema-edit/releases):
 
 ```sh
 #Using `go`, fetch the latest from `master`
-go get -u -v github.com/cirocosta/asciinema-edit
-
-#Retrieving from GitHub releases
-VERSION=0.0.6
-curl -SOL https://github.com/cirocosta/asciinema-edit/releases/download/$VERSION/asciinema-edit_$VERSION_linux_amd64.tar.gz
+go get -u -v github.com/themartiancompany/asciinema-edit
 ```
 
 ### Quantize

@@ -1,7 +1,7 @@
 package editor
 
 import (
-	"github.com/cirocosta/asciinema-edit/cast"
+	"github.com/themartiancompany/asciinema-edit/cast"
 	"github.com/pkg/errors"
 )
 

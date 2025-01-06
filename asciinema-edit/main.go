@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/cirocosta/asciinema-edit/commands"
+	"github.com/themartiancompany/asciinema-edit/commands"
 	"gopkg.in/urfave/cli.v1"
 )
 

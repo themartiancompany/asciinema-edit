@@ -1,9 +1,9 @@
 package commands
 
 import (
-	"github.com/cirocosta/asciinema-edit/cast"
-	"github.com/cirocosta/asciinema-edit/commands/transformer"
-	"github.com/cirocosta/asciinema-edit/editor"
+	"github.com/themartiancompany/asciinema-edit/cast"
+	"github.com/themartiancompany/asciinema-edit/commands/transformer"
+	"github.com/themartiancompany/asciinema-edit/editor"
 	"gopkg.in/urfave/cli.v1"
 )
 

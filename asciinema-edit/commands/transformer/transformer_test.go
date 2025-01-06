@@ -5,8 +5,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/cirocosta/asciinema-edit/cast"
-	"github.com/cirocosta/asciinema-edit/commands/transformer"
+	"github.com/themartiancompany/asciinema-edit/cast"
+	"github.com/themartiancompany/asciinema-edit/commands/transformer"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
