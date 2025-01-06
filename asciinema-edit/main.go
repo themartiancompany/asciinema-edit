@@ -5,7 +5,8 @@ import (
 
 	// "github.com/themartiancompany/asciinema-edit/commands"
 	"asciinema-edit/commands"
-	"gopkg.in/urfave/cli.v1"
+	// "gopkg.in/urfave/cli.v1"
+	"cli.v1"
 )
 
 var (

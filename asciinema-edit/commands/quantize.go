@@ -9,7 +9,7 @@ import (
 	"asciinema-edit/commands/transformer"
 	"asciinema-edit/editor"
 	"errors"
-	"cli.v1"
+	"cli"
 
 	// "github.com/themartiancompany/asciinema-edit/cast"
 	// "github.com/themartiancompany/asciinema-edit/commands/transformer"

@@ -2,3 +2,15 @@
 	path = asciinema-edit/cli
 	url = https://github.com/urfave/cli
 	commit = cfb38830724cc34fedffe9a2a29fb54fa9169cd1
+[submodule "asciinema-edit/errors"]
+	path = asciinema-edit/errors
+	url = https://github.com/pkg/errors
+	commit = 645ef00459ed84a119197bfb8d8205042c6df63d
+[submodule "asciinema-edit/ginkgo"]
+	path = asciinema-edit/ginkgo
+	url = https://github.com/onsi/ginkgo
+	commit = fa5fabab2a1bfbd924faf4c067d07ae414e2aedf
+[submodule "asciinema-edit/gomega"]
+	path = asciinema-edit/gomega
+	url = https://github.com/onsi/gomega
+	commit = 62bff4df71bdbc266561a0caee19f0594b17c240
